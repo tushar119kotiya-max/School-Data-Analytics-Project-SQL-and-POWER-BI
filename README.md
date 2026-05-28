@@ -85,4 +85,4 @@ The main objective of this project is to build a real-world school management da
 ---
 
 ## Author
-Yogesh Pandey
+Tushar Kotiya
